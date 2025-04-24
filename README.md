@@ -476,7 +476,7 @@ storage:
 
 ### 3.2. Install NetApp Trident {#install-trident-tridentctl}
 
-1. In OpenShift, you can use the OperatorHub to install Astra Trident. From the UI, navigate to OperatorHub, search for "Astra Trident," and initiate the installation from there. This method allows you to easily manage upgrades for the installer operator directly from OpenShift OperatorHub. Once the installation is complete, you can continue with [Trident Installation Step 4: Create the TridentOrchestrator and install Trident](https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy-operator.html#step-4-create-the-tridentorchestrator-and-install-trident).
+1. In OpenShift, you can use the OperatorHub to install Trident. From the UI, navigate to OperatorHub, search for "Trident," and initiate the installation from there. This method allows you to easily manage upgrades for the installer operator directly from OpenShift OperatorHub. Once the installation is complete, you can continue with [Trident Installation Step 4: Create the TridentOrchestrator and install Trident](https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy-operator.html#step-4-create-the-tridentorchestrator-and-install-trident).
 
 Below is an example of a TridentOrchestrator Config:
 
